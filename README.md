@@ -9,9 +9,12 @@ The news crawled from different websites has been classified into real and fake 
 7. type 
 # Steps followed
 1. Data preprocessing ( Remove unwanted data,  handling null values etc.)
-2. Fitting and Prediction using Logistic Regression
-3. Fitting and Prediction using  KNeighborsClassifier
-4. Fitting and Prediction using DecisionTreeClassifier
-5. Fitting and Prediction using RandomForestClassifier
-6. Fitting and Prediction using GradientBoostingClassifier
-7. Fitting and Prediction using XGBClassifier
+2. Tokenization
+3. Removing Stop words and Punctuation
+4. Vectorization using TfidfVectorizer
+5. Fitting and Prediction using Logistic Regression
+6. Fitting and Prediction using  KNeighborsClassifier
+7. Fitting and Prediction using DecisionTreeClassifier
+8. Fitting and Prediction using RandomForestClassifier
+9. Fitting and Prediction using GradientBoostingClassifier
+10. Fitting and Prediction using XGBClassifier
